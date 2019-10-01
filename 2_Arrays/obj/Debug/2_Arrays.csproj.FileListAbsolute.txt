@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\2_Arrays\bin\Debug\2_Arrays.exe.config
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\2_Arrays\bin\Debug\2_Arrays.exe
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\2_Arrays\bin\Debug\2_Arrays.pdb
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\2_Arrays\obj\Debug\2_Arrays.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\2_Arrays\obj\Debug\2_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\2_Arrays\obj\Debug\2_Arrays.exe
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\2_Arrays\obj\Debug\2_Arrays.pdb
