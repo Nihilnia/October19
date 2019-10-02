@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\4_Classes\bin\Debug\4_Classes.exe.config
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\4_Classes\bin\Debug\4_Classes.exe
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\4_Classes\bin\Debug\4_Classes.pdb
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\4_Classes\obj\Debug\4_Classes.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\4_Classes\obj\Debug\4_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\4_Classes\obj\Debug\4_Classes.exe
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\4_Classes\obj\Debug\4_Classes.pdb
