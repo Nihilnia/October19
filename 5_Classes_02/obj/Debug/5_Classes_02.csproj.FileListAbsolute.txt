@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\5_Classes_02\bin\Debug\5_Classes_02.exe.config
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\5_Classes_02\bin\Debug\5_Classes_02.exe
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\5_Classes_02\bin\Debug\5_Classes_02.pdb
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\5_Classes_02\obj\Debug\5_Classes_02.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\5_Classes_02\obj\Debug\5_Classes_02.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\5_Classes_02\obj\Debug\5_Classes_02.exe
+C:\Users\Nihil\Desktop\0ctober\Udemy\C#\5_Classes_02\obj\Debug\5_Classes_02.pdb
